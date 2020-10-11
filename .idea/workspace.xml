@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="acd3cca4-255f-4189-8adc-cef4c1cf0d2c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/IPAddresses_and_Routing.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DNS_Page.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +24,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Domains_and_ICANN" />
+        <entry key="$PROJECT_DIR$" value="IPAddresses_and_Routing" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -54,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602448960824</updated>
-      <workItem from="1602448962099" duration="2727000" />
+      <workItem from="1602448962099" duration="2910000" />
     </task>
     <task id="LOCAL-00001" summary="Feature:  Created image directory and added images for use in pages">
       <created>1602451000309</created>
@@ -84,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602451681043</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Feature:  Created IPAddresses and Routing page as HTML file">
+      <created>1602452005320</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602452005320</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,16 +102,17 @@
     <MESSAGE value="Feature:  Created About the Author page as HTML file" />
     <MESSAGE value="Feature:  Created What is the Internet page as HTML file" />
     <MESSAGE value="Feature:  Created Domains and ICANN page as HTML file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature:  Created Domains and ICANN page as HTML file" />
+    <MESSAGE value="Feature:  Created IPAddresses and Routing page as HTML file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature:  Created IPAddresses and Routing page as HTML file" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="377" y="78" key="CommitChangelistDialog2" timestamp="1602451680066">
+    <state x="377" y="78" key="CommitChangelistDialog2" timestamp="1602452004336">
       <screen x="0" y="0" width="1563" height="1002" />
     </state>
-    <state x="377" y="78" key="CommitChangelistDialog2/0.0.1563.1002@0.0.1563.1002" timestamp="1602451680066" />
-    <state x="374" y="234" key="Vcs.Push.Dialog.v2" timestamp="1602451714134">
+    <state x="377" y="78" key="CommitChangelistDialog2/0.0.1563.1002@0.0.1563.1002" timestamp="1602452004336" />
+    <state x="374" y="234" key="Vcs.Push.Dialog.v2" timestamp="1602452017868">
       <screen x="0" y="0" width="1563" height="1002" />
     </state>
-    <state x="374" y="234" key="Vcs.Push.Dialog.v2/0.0.1563.1002@0.0.1563.1002" timestamp="1602451714134" />
+    <state x="374" y="234" key="Vcs.Push.Dialog.v2/0.0.1563.1002@0.0.1563.1002" timestamp="1602452017868" />
   </component>
 </project>
