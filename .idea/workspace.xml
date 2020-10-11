@@ -1,16 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="acd3cca4-255f-4189-8adc-cef4c1cf0d2c" name="Default Changelist" comment="" />
+    <list default="true" id="acd3cca4-255f-4189-8adc-cef4c1cf0d2c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/About_the_Author.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Randee Jennings" />
+      </list>
+    </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="Images" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -21,6 +35,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -39,11 +54,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602448960824</updated>
-      <workItem from="1602448962099" duration="1596000" />
+      <workItem from="1602448962099" duration="2043000" />
     </task>
+    <task id="LOCAL-00001" summary="Feature:  Created image directory and added images for use in pages">
+      <created>1602451000309</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602451000309</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Feature:  Created image directory and added images for use in pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature:  Created image directory and added images for use in pages" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="377" y="78" key="CommitChangelistDialog2" timestamp="1602450999308">
+      <screen x="0" y="0" width="1563" height="1002" />
+    </state>
+    <state x="377" y="78" key="CommitChangelistDialog2/0.0.1563.1002@0.0.1563.1002" timestamp="1602450999308" />
+    <state x="374" y="234" key="Vcs.Push.Dialog.v2" timestamp="1602451023040">
+      <screen x="0" y="0" width="1563" height="1002" />
+    </state>
+    <state x="374" y="234" key="Vcs.Push.Dialog.v2/0.0.1563.1002@0.0.1563.1002" timestamp="1602451023040" />
   </component>
 </project>
