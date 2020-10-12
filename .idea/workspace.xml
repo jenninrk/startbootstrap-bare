@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="acd3cca4-255f-4189-8adc-cef4c1cf0d2c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/What_is_the_Internet.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/About_the_Author.html" beforeDir="false" afterPath="$PROJECT_DIR$/About_the_Author.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/What_is_the_Internet.html" beforeDir="false" afterPath="$PROJECT_DIR$/What_is_the_Internet.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
