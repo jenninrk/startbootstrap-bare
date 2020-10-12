@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="acd3cca4-255f-4189-8adc-cef4c1cf0d2c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Randee Jennings" />
+      </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="W3C_HTML" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ikQ9bk4Q8vMgf7lYLUYRBTzHlm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="acd3cca4-255f-4189-8adc-cef4c1cf0d2c" name="Default Changelist" comment="" />
+      <created>1602448960824</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602448960824</updated>
+      <workItem from="1602448962099" duration="4162000" />
+    </task>
+    <task id="LOCAL-00001" summary="Feature:  Created image directory and added images for use in pages">
+      <created>1602451000309</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602451000309</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Feature:  Created About the Author page as HTML file">
+      <created>1602451326776</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602451326776</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Feature:  Created What is the Internet page as HTML file">
+      <created>1602451528833</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602451528833</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Feature:  Created Domains and ICANN page as HTML file">
+      <created>1602451681043</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602451681043</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Feature:  Created IPAddresses and Routing page as HTML file">
+      <created>1602452005320</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602452005320</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Feature:  Created DNS page as HTML file">
+      <created>1602452172568</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1602452172568</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Feature:  Created HTTP HTTPS page as HTML file">
+      <created>1602452353717</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1602452353717</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Feature:  Created W3C and HTML page as HTML file">
+      <created>1602452575870</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1602452575870</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Task:  Added image and text to the W3C and HTML page">
+      <created>1602512416119</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1602512416121</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Feature:  Created image directory and added images for use in pages" />
+    <MESSAGE value="Feature:  Created About the Author page as HTML file" />
+    <MESSAGE value="Feature:  Created What is the Internet page as HTML file" />
+    <MESSAGE value="Feature:  Created Domains and ICANN page as HTML file" />
+    <MESSAGE value="Feature:  Created IPAddresses and Routing page as HTML file" />
+    <MESSAGE value="Feature:  Created DNS page as HTML file" />
+    <MESSAGE value="Feature:  Created HTTP HTTPS page as HTML file" />
+    <MESSAGE value="Feature:  Created W3C and HTML page as HTML file" />
+    <MESSAGE value="Task:  Added image and text to the W3C and HTML page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task:  Added image and text to the W3C and HTML page" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="377" y="78" key="CommitChangelistDialog2" timestamp="1602512414960">
+      <screen x="0" y="0" width="1563" height="1002" />
+    </state>
+    <state x="377" y="78" key="CommitChangelistDialog2/0.0.1563.1002@0.0.1563.1002" timestamp="1602512414960" />
+    <state x="374" y="234" key="Vcs.Push.Dialog.v2" timestamp="1602512423478">
+      <screen x="0" y="0" width="1563" height="1002" />
+    </state>
+    <state x="374" y="234" key="Vcs.Push.Dialog.v2/0.0.1563.1002@0.0.1563.1002" timestamp="1602512423478" />
+  </component>
+</project>
