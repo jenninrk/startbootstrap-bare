@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="acd3cca4-255f-4189-8adc-cef4c1cf0d2c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/About_the_Author.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/About_the_Author.html" beforeDir="false" afterPath="$PROJECT_DIR$/About_the_Author.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +24,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Images" />
+        <entry key="$PROJECT_DIR$" value="W3C_HTML" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
