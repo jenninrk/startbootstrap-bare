@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="acd3cca4-255f-4189-8adc-cef4c1cf0d2c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602513187218</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Task:  Added image to index page">
+      <created>1602513345384</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1602513345384</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,16 +158,17 @@
     <MESSAGE value="Task:  Added image and text to the W3C and HTML page" />
     <MESSAGE value="Task:  Updated text and banner on master index page from stock" />
     <MESSAGE value="Feature:  Added pics directory to master index page from stock and included images" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature:  Added pics directory to master index page from stock and included images" />
+    <MESSAGE value="Task:  Added image to index page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task:  Added image to index page" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="377" y="78" key="CommitChangelistDialog2" timestamp="1602513177158">
+    <state x="377" y="78" key="CommitChangelistDialog2" timestamp="1602513344271">
       <screen x="0" y="0" width="1563" height="1002" />
     </state>
-    <state x="377" y="78" key="CommitChangelistDialog2/0.0.1563.1002@0.0.1563.1002" timestamp="1602513177158" />
-    <state x="374" y="234" key="Vcs.Push.Dialog.v2" timestamp="1602513194180">
+    <state x="377" y="78" key="CommitChangelistDialog2/0.0.1563.1002@0.0.1563.1002" timestamp="1602513344271" />
+    <state x="374" y="234" key="Vcs.Push.Dialog.v2" timestamp="1602513353102">
       <screen x="0" y="0" width="1563" height="1002" />
     </state>
-    <state x="374" y="234" key="Vcs.Push.Dialog.v2/0.0.1563.1002@0.0.1563.1002" timestamp="1602513194180" />
+    <state x="374" y="234" key="Vcs.Push.Dialog.v2/0.0.1563.1002@0.0.1563.1002" timestamp="1602513353102" />
   </component>
 </project>
