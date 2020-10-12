@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="acd3cca4-255f-4189-8adc-cef4c1cf0d2c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/W3C_HTML.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602448960824</updated>
-      <workItem from="1602448962099" duration="3274000" />
+      <workItem from="1602448962099" duration="4162000" />
     </task>
     <task id="LOCAL-00001" summary="Feature:  Created image directory and added images for use in pages">
       <created>1602451000309</created>
@@ -105,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602452353717</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Feature:  Created W3C and HTML page as HTML file">
+      <created>1602452575870</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1602452575870</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,16 +126,17 @@
     <MESSAGE value="Feature:  Created IPAddresses and Routing page as HTML file" />
     <MESSAGE value="Feature:  Created DNS page as HTML file" />
     <MESSAGE value="Feature:  Created HTTP HTTPS page as HTML file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature:  Created HTTP HTTPS page as HTML file" />
+    <MESSAGE value="Feature:  Created W3C and HTML page as HTML file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature:  Created W3C and HTML page as HTML file" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="377" y="78" key="CommitChangelistDialog2" timestamp="1602452352773">
+    <state x="377" y="78" key="CommitChangelistDialog2" timestamp="1602452574857">
       <screen x="0" y="0" width="1563" height="1002" />
     </state>
-    <state x="377" y="78" key="CommitChangelistDialog2/0.0.1563.1002@0.0.1563.1002" timestamp="1602452352773" />
-    <state x="374" y="234" key="Vcs.Push.Dialog.v2" timestamp="1602452366514">
+    <state x="377" y="78" key="CommitChangelistDialog2/0.0.1563.1002@0.0.1563.1002" timestamp="1602452574857" />
+    <state x="374" y="234" key="Vcs.Push.Dialog.v2" timestamp="1602452585432">
       <screen x="0" y="0" width="1563" height="1002" />
     </state>
-    <state x="374" y="234" key="Vcs.Push.Dialog.v2/0.0.1563.1002@0.0.1563.1002" timestamp="1602452366514" />
+    <state x="374" y="234" key="Vcs.Push.Dialog.v2/0.0.1563.1002@0.0.1563.1002" timestamp="1602452585432" />
   </component>
 </project>
